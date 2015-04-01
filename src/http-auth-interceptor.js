@@ -7,6 +7,7 @@
  */
 (function () {
   'use strict';
+  'use strict';
 
   angular.module('http-auth-interceptor', ['http-auth-interceptor-buffer'])
 
